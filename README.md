@@ -31,7 +31,7 @@ Este projeto é um site elegante e responsivo, perfeito para mostrar o portifól
 Caso queira entrar em contato ou tiver alguma dúvida, sinta-se à vontade para me chamar! 😃  
 📧 **Email:** feaugustocamussi@gmail.com  
 📞 **Telefone:** +55 11 96225-2559 
-🔗 **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/fernando-augusto-camussi-067ab9318)  
+🔗 **LinkedIn:** [www.linkedin.com/in/fernando-augusto-camussi-067ab9318](#)  
 
 ---
 
