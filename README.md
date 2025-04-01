@@ -16,10 +16,6 @@ Este projeto é um site elegante e responsivo, perfeito para mostrar o portifól
 - 🎨 **CSS3** – Estilização com efeitos visuais incríveis  
 - ⚡ **JavaScript** – Interatividade dinâmica  
 
-## 📸 Demonstração
-
-🔗 [(http://127.0.0.1:3000/index.html#sobre)](#) para ver uma prévia do projeto!  
-
 ## 📝 Melhorias Futuras
 
 📌 Implementar modo claro/escuro 🌗  
